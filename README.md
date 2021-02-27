@@ -27,4 +27,4 @@ Sometimes your browser might automatically open with the nordvpn website. I am n
 ## How to connect to specifc Countries
 Open the python script with any IDE of your choice and change `'canada'` in line 37 to any country you want. You can also delete the country all together and just write `['nordvpn', 'c']` then you will be automatically connected to the country with the best connection.
 ## Please Comment
-Like I said I am very new to this and by no means perfect code. I am very much open to suggestions, so leave a comment! Thanks again to behnambm for the code!
+Like I said I am very new to this and by no means perfect code. I am very much open to suggestions, so leave a comment! Thanks again to behnambm for the code! I will probably not be working on this script a lot more but there are some things to do like an easier country selection so definetly leave requests as well.
